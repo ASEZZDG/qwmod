@@ -4,5 +4,5 @@ pkg upgrade
 pkg update
 
 chmod +x setup
-chmod +x etc/tools.bms qwmodv3
+chmod +x etc/tools.bms qwmod
 bash setup
