@@ -1,5 +1,5 @@
 #!/bin/bash
-# Installer for AKMODv3
+# Installer for QWMOD
 
 source etc/banner
 # Banner Add
@@ -38,11 +38,11 @@ if [ $dax == "1008" ]
       cd $tx
       rm -rf etc/0x1a23b8a0101
       echo "THIS SCRIPT HAS BEEN EXPIRED"
-      echo "CHECKING TELEGRAM AKMODPUBG"
-      echo "OR OWNER @nanamod96"
+      echo "青蛙🐸"
+      echo "OR OWNER @RTENB"
       rm -rf etc/tools.bms
       rm -rf etc/banner
-      rm -rf $tx/akmodv3*
+      rm -rf $tx/qwmod*
    else
      TI
 fi
