@@ -3,7 +3,7 @@
 source etc/0x1a23b8a0101
 source etc/banner #BANNER
 # Banner Add
-echo -e "executing: ${LIGHTGREEN}AKMOD TOOLS v3${NOCOLOR}"
+echo -e "executing: ${LIGHTGREEN}QWMOD TOOLS${NOCOLOR}"
 echo "-----------------------"
 
 
@@ -425,7 +425,7 @@ HTU () {
 clear
 source etc/banner
 # Banner Add
-echo -e "executing: ${LIGHTGREEN}AKMOD TOOL v3${NOCOLOR}"
+echo -e "executing: ${LIGHTGREEN}QWMOD TOOL${NOCOLOR}"
 echo "-----------------------"
 echo -e "${RED}HOW TO USE??${NOCOLOR}"
 echo -e "1.MAKE SOME FOLDER IN DOWNLOAD WITH NAME 'pak'"
@@ -439,11 +439,11 @@ echo -e "${RED}NOTE${NOCOLOR}: WHEN FILE IS UNPACKING THE PAK FILE WILL MOVE AUT
 echo -e "ON ${GREEN}QUICKBMS${NOCOLOR} FOLDER FOR THE PERFOM"
 echo -e "${GREEN}YOU CAN MAKE OWN VERSION WITH CREDIT:${NOCOLOR}"
 echo -e "
-${RED}TELEGRAM AKMODPUBG
-${WHITE}OWNER @nanamod96
+${RED}青蛙NB
+${WHITE}OWNER @RTENB
 ${LIGHTGREY}THANKS MEMBER
 ${GREEN}MOD: I LOVE YOU SO MUCH 
-${RED}TEAM: ${WHITE}@akmodpubg
+${RED}TEAM: ${WHITE}天天开心૮ •𖥦• აᐝ
 "
 }
 
